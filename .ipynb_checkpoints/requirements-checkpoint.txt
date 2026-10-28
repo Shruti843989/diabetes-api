@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-scikit-learn==1.5.2
-numpy<2
-joblib
-pandas
-pytest
-httpx
